@@ -26,6 +26,7 @@ class LondonrelocationSpider(scrapy.Spider):
 
         # an example for adding a property to the json list:
         # property = ItemLoader(item=Property())
-        # property.add_value('title', 'Test')
-        # property.add_value('price', '100')
+        # property.add_value('title', '2 bedroom flat for rental')
+        # property.add_value('price', '1680') # 420 per week
+        # property.add_value('url', 'https://londonrelocation.com/properties-to-rent/properties/property-london/534465-2-bed-frognal-hampstead-nw3/')
         # return property.load_item()
