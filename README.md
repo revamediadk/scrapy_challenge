@@ -8,7 +8,7 @@ Your goal is to be able to:
 1. Traverse the areas with their links listed in this page `https://londonrelocation.com/properties-to-rent/` such as `Fulham`, `Canary Wharf` `Angel`, and etc. (Already Implemented by us as an example)
 2. Visit each area link and traverse the paginated properties lists (page 1 and page 2 only are sufficient).
 3. Do not hard code the pages links in step2, scrap them from the area page from step1.
-4. For each property you need to save the property title and price per month.
+4. For each property you need to save the property title, price per month, and property URL.
 
 The output should be a JSON file with a list of all properties scraped.
 
