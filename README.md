@@ -14,6 +14,10 @@ The output should be a JSON file with a list of all properties scraped.
 
 ## Setup Instructions (Ubuntu)
 
+Clone this project into your own Github project and submit the project as a part of your job application.
+
+NOTE: Do not fork the project directly as Github will connect your repo to this repo and will help other candidates to easily cheat and learn from your code.
+
 ```bash
 apt install python3-virtualenv libpython3.8-dev
 apt-get install build-essential
